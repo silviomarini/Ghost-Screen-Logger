@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B6xPlcEzF3MFKOdaw1m8d3EPCQ//2x8s5X6rsuRyWjH1PLUzVopiBsh6Mv9z31Zt+P6Uneyx+8C8LLa6IqzGTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\silvio.marini\\source\\repos\\GhostScreenLogger\\GhostScreenLogger\\GhostScreenLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

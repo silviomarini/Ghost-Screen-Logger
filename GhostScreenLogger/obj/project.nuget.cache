@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRWsq2iINVwuWlVsk9oeIS3oEVJAjb7pH/tINdj1dhuBXws2cHmRfb7BAc88jDE5FRcrpiaj6MoNdMC+kk9rCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\silvio.marini\\source\\repos\\GhostScreenLogger\\GhostScreenLogger\\GhostScreenLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\silvio.marini\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
